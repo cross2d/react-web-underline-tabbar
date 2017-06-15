@@ -1,0 +1,19 @@
+{
+  "name": "@cross2d/react-web-underline-tabbar",
+  "version": "1.0.0",
+  "description": "Custom Tabbar",
+  "main": "tabBar.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "release":"npm publish --access public"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-scrollable-tab-view",
+    "tabbar"
+  ],
+  "author": "Colin3dmax",
+  "license": "MIT"
+}
